@@ -47,5 +47,7 @@
 **If errors persist after multiple fsck attempts**
 
 > Consider backing up data (if accessible)
+
 > Replace HDD or sometimes check physical SATA connection ***(NVRAM unseat/reseat)***
+
 > Reinstall Ubuntu
