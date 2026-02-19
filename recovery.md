@@ -36,7 +36,7 @@
 
 ***I used reboot -f instead***
 
-# Desperate moves if It still Fails
+# Desperate moves if it still Fails
 
 **Check for**
 
