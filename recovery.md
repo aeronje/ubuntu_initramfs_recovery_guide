@@ -41,13 +41,15 @@
 **Check for**
 
 > Wrong partition selected.
+
 > Loose SATA/power connection.
+
 > Repeated I/O errors (possible failing drive).
 
 **If errors persist after multiple fsck attempts**
 
-> Consider backing up data (if accessible)
+> Consider backing up data (if accessible).
 
-> Replace HDD or sometimes check physical SATA connection ***(NVRAM unseat/reseat)***
+> Replace HDD or sometimes check physical SATA connection. ***(NVRAM unseat/reseat)***
 
-> Reinstall Ubuntu
+> Reinstall Ubuntu.
