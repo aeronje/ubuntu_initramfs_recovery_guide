@@ -1,6 +1,6 @@
 # Recovery steps
 
-> This issue occurs more frequently on systems using mechanical HDDs due to their slower write speeds and moving parts.  
+> This issue occurs more frequently on systems using mechanical HDDs due to slower write speeds and moving parts.  
 > SSDs are not exempted to sudden power loss but generally more resilient and recover faster.  
 > Upgrading to an SSD is still recommended though.
 
