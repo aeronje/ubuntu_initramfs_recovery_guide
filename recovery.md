@@ -40,9 +40,9 @@
 
 **Check for**
 
-> Wrong partition selected
-> Loose SATA/power connection
-> Repeated I/O errors (possible failing drive)
+> Wrong partition selected.
+> Loose SATA/power connection.
+> Repeated I/O errors (possible failing drive).
 
 **If errors persist after multiple fsck attempts**
 
